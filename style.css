@@ -349,7 +349,7 @@ input:checked ~ .pos .block5_arrow {
     .text_box {
         top: 36px;
         width: 398px;
-        /* min-width: 398px; */
+        min-width: 398px;
         font-size: 13px;
     }
     h2 {
