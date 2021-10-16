@@ -58,7 +58,7 @@ Users should be able to:
 6. better understanding on how selectors work, and how to combine them.
 
 
-snippets, see below:
+##Snippets, see below:
 
 - what I learned #2
 ```css
