@@ -230,18 +230,10 @@ input:checked ~ .db5 {
 
 }
 
-input:checked ~ .pos .block1_arrow {
-    transform: rotate(-180deg);
-}
-input:checked ~ .pos .block2_arrow {
-    transform: rotate(-180deg);
-}
-input:checked ~ .pos .block3_arrow {
-    transform: rotate(-180deg);
-}
-input:checked ~ .pos .block4_arrow {
-    transform: rotate(-180deg);
-}
+input:checked ~ .pos .block1_arrow,
+input:checked ~ .pos .block2_arrow,
+input:checked ~ .pos .block3_arrow,
+input:checked ~ .pos .block4_arrow,
 input:checked ~ .pos .block5_arrow {
     transform: rotate(-180deg);
 }
